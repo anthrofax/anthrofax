@@ -15,8 +15,8 @@ Find me on LinkedIn: Afridho Ikhsan
 ### 💻 Technical Skills
 - Languages: JavaScript, C++, Python, Java
 - Frameworks/Libraries: React, Next.js, Node.js, Tailwind, Redux, Express, HAPI
-- Tools: Visual Studio Code, Git, Figma, Adobe Illustrator, Supabase, Sanity
-- Database: MySQL, Postman API, Stripe
+- Tools: Visual Studio Code, Git, Figma, Adobe Illustrator, Supabase, Sanity, Postman API, Stripe, Midtrans, Prisma
+- Database: MySQL, MongoDB
 
 <hr>
 
