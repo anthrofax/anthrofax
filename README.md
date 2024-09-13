@@ -56,3 +56,11 @@ Sep 2022 - Expected Sep 2026
 ### 📈 What I'm Focusing On
 - Tech Stack Expansion: Currently delving deeper into advanced React concepts, Next.js, and Node.js back-end development.
 - Community Building: As Head of Product Development at HIMTIKA, I lead a team to innovate digital products and mentor students in competitive programming.
+
+### Github Statistics
+<p align="left">
+<a href="https://github.com/anthrofax">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anthrofax&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anthrofax&layout=compact&theme=algolia"/>
+</a>
+</p>
