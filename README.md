@@ -8,7 +8,7 @@ I'm Afridho Ikhsan, a passionate Informatics Engineering student at Universitas 
 Explore my personal portfolio here: anthrofax-github-io.vercel.app
 
 🔗 Connect with Me
-Find me on LinkedIn: Afridho Ikhsan
+Find me on LinkedIn : Afridho Ikhsan
 
 <hr>
 
